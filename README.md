@@ -1,1 +1,1 @@
-# linecnt
+# Line Counter v. 1.0
